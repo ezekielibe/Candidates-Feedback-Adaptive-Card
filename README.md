@@ -8,4 +8,11 @@ There are a few key things to keep in mind when conducting candidate assessments
 
 Third, it is important to make sure that the assessment process is fair. This means treating all candidates equally and giving them all the same opportunity to showcase their skills and qualifications. Finally, it is important to document everything. This way, there is a record of the assessment process and the decision-making process that can be referenced later which is why this app was created to be used in Microsoft Teams
 
+##What to use the interview assessment adaptive card for:
+* During an interview or after an interview for a candidate assessment feedback
+
+##Using the adaptive card:
+* Download the Candidate Feedback Adaptive Card zip file on my repository
+
+
 
