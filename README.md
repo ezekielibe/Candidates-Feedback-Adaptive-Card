@@ -13,6 +13,7 @@ Third, it is important to make sure that the assessment process is fair. This me
 
 ## Using the adaptive card:
 * Download the Candidate Feedback Adaptive Card zip file on my repository
+* Import the zip file to Power Automate and change the connections
 
 
 
